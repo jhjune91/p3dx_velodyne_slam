@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: fusion
+Description: Description of fusion
+Version: 0.0.0
+Cflags: -I/home/hj/catkin_ws/src/computing/perception/detection/lib/fusion/include
+Libs: -L/home/hj/catkin_ws/devel/lib -lfusion
+Requires: roscpp scan2image points2image

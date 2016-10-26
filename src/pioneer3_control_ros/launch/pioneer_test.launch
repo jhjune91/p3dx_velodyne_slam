@@ -1,0 +1,6 @@
+<launch>
+  <!-- RosAria -->
+  <node pkg="pioneer3_control_ros" type="robotWander" name="robotWander" output="screen"/>
+  
+ 
+</launch>

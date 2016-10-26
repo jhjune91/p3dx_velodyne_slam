@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: points2polygon
+Description: Description of points2polygon
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: runtime_manager

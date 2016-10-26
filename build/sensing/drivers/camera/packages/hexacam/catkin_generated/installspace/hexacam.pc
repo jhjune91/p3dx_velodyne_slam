@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: hexacam
+Description: Description of hexacam
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib -lhexacam
+Requires: 

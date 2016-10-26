@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -O2 -g -Wall  -fopenmp -O3 -DNDEBUG   -shared -Wl,-soname,liblibvelocity_set.so -o /home/hj/catkin_ws/devel/lib/liblibvelocity_set.so CMakeFiles/libvelocity_set.dir/lib/libvelocity_set.cpp.o 

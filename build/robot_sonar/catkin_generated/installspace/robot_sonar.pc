@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: robot_sonar
+Description: Description of robot_sonar
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: 

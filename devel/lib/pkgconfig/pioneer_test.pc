@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: pioneer_test
+Description: Description of pioneer_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/devel/lib 
+Requires: 

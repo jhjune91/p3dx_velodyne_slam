@@ -1,0 +1,2 @@
+set(waypoint_follower_MESSAGE_FILES "/home/hj/catkin_ws/src/computing/planning/motion/packages/waypoint_follower/msg/lane.msg;/home/hj/catkin_ws/src/computing/planning/motion/packages/waypoint_follower/msg/waypoint.msg;/home/hj/catkin_ws/src/computing/planning/motion/packages/waypoint_follower/msg/dtlane.msg;/home/hj/catkin_ws/src/computing/planning/motion/packages/waypoint_follower/msg/LaneArray.msg")
+set(waypoint_follower_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: rqt_estop
+Description: Description of rqt_estop
+Version: 0.0.1
+Cflags: -I/home/hj/catkin_ws/build/rqt_estop
+Libs: -L/home/hj/catkin_ws/devel/lib -lrqt_estop
+Requires: roscpp rqt_gui rqt_gui_cpp geometry_msgs

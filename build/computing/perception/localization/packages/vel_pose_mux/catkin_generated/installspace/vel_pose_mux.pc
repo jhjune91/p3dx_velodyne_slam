@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: vel_pose_mux
+Description: Description of vel_pose_mux
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: 

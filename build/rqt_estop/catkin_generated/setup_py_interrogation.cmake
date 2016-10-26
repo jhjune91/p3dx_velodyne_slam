@@ -1,0 +1,6 @@
+set(rqt_estop_SETUP_PY_VERSION "0.0.1")
+set(rqt_estop_SETUP_PY_SCRIPTS "")
+set(rqt_estop_SETUP_PY_PACKAGES "rqt_estop")
+set(rqt_estop_SETUP_PY_PACKAGE_DIRS "src/rqt_estop")
+set(rqt_estop_SETUP_PY_MODULES "")
+set(rqt_estop_SETUP_PY_MODULE_DIRS "")

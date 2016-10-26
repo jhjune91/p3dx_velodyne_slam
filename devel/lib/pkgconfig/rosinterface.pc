@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: rosinterface
+Description: Description of rosinterface
+Version: 0.0.0
+Cflags: -I/home/hj/catkin_ws/src/util/packages/RobotSDK/rosinterface/include/rosinterface
+Libs: -L/home/hj/catkin_ws/devel/lib -lrosinterface
+Requires: roscpp

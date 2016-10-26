@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: libvectormap
+Description: Description of libvectormap
+Version: 0.1.0
+Cflags: -I/home/hj/catkin_ws/install/include -I/usr/include/eigen3
+Libs: -L/home/hj/catkin_ws/install/lib -lvectormap
+Requires: map_file

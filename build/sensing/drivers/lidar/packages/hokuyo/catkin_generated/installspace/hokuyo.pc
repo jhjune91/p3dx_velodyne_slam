@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: hokuyo
+Description: Description of hokuyo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: roscpp sensor_msgs

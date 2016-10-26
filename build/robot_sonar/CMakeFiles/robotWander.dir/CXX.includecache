@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hj/catkin_ws/src/robot_sonar/src/robotWander.cpp
+AriaRobot.h
+/home/hj/catkin_ws/src/robot_sonar/src/AriaRobot.h
+

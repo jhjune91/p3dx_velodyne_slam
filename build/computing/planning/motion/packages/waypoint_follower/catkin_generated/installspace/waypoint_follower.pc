@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: waypoint_follower
+Description: Description of waypoint_follower
+Version: 0.0.0
+Cflags: -I/home/hj/catkin_ws/install/include
+Libs: -L/home/hj/catkin_ws/install/lib -llibwaypoint_follower
+Requires: roscpp std_msgs tf runtime_manager vehicle_socket message_runtime geometry_msgs gnss

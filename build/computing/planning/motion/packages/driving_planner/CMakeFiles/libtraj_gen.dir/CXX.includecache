@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hj/catkin_ws/src/computing/planning/motion/packages/driving_planner/include/libtraj_gen.h
+
+/home/hj/catkin_ws/src/computing/planning/motion/packages/driving_planner/lib/libtraj_gen.cpp
+iostream
+-
+vector
+-
+armadillo
+-
+cmath
+-
+algorithm
+-
+iostream
+-
+fstream
+-
+stdlib.h
+-
+stdio.h
+-
+libtraj_gen.h
+/home/hj/catkin_ws/src/computing/planning/motion/packages/driving_planner/lib/libtraj_gen.h
+

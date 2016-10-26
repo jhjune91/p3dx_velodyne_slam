@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hj/catkin_ws/src/computing/perception/detection/lib/image/dpm_ocv/cpu/dpm_ocv_cpu.cpp
+opencv2/opencv.hpp
+-
+opencv2/core/core.hpp
+-
+dpm_ocv.hpp
+-
+
+/home/hj/catkin_ws/src/computing/perception/detection/lib/image/dpm_ocv/include/dpm_ocv/dpm_ocv.hpp
+vector
+-
+opencv2/core/core.hpp
+-
+

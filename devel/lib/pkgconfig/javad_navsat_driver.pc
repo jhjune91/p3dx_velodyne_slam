@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: javad_navsat_driver
+Description: Description of javad_navsat_driver
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hj/catkin_ws/devel/lib 
+Requires: 

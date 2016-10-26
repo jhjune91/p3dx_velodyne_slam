@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: object_map
+Description: Description of object_map
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: roscpp pcl_ros pcl_conversions tf sensor_msgs nav_msgs

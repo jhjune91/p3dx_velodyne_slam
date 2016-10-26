@@ -1,0 +1,2 @@
+set(tablet_socket_MESSAGE_FILES "/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/Waypoint.msg;/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/gear_cmd.msg;/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/mode_cmd.msg;/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/route_cmd.msg;/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/error_info.msg;/home/hj/catkin_ws/src/socket/packages/tablet_socket/msg/mode_info.msg")
+set(tablet_socket_SERVICE_FILES "")

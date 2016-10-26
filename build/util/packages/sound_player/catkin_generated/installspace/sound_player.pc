@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: sound_player
+Description: Description of sound_player
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: rospy std_msgs

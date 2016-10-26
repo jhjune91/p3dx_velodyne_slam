@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: model_publisher
+Description: Description of model_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: 

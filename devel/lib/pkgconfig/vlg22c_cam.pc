@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: vlg22c_cam
+Description: Description of vlg22c_cam
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/devel/lib -lvlg22c_cam
+Requires: 

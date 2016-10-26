@@ -1,0 +1,2 @@
+set(road_wizard_MESSAGE_FILES "/home/hj/catkin_ws/src/computing/perception/detection/packages/road_wizard/msg/ExtractedPosition.msg;/home/hj/catkin_ws/src/computing/perception/detection/packages/road_wizard/msg/Signals.msg;/home/hj/catkin_ws/src/computing/perception/detection/packages/road_wizard/msg/ValueSet.msg;/home/hj/catkin_ws/src/computing/perception/detection/packages/road_wizard/msg/ColorSet.msg;/home/hj/catkin_ws/src/computing/perception/detection/packages/road_wizard/msg/TunedResult.msg")
+set(road_wizard_SERVICE_FILES "")

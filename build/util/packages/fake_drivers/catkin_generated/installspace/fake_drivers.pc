@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/install
+
+Name: fake_drivers
+Description: Description of fake_drivers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/install/lib 
+Requires: roscpp std_msgs sensor_msgs

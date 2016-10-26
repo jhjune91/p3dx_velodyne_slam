@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: driving_planner
+Description: Description of driving_planner
+Version: 0.0.0
+Cflags: -I/home/hj/catkin_ws/src/computing/planning/motion/packages/driving_planner/include
+Libs: -L/home/hj/catkin_ws/devel/lib -llibtraj_gen
+Requires: roscpp std_msgs tf runtime_manager waypoint_follower vehicle_socket map_file gnss

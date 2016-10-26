@@ -1,0 +1,2 @@
+/usr/bin/ar cr /home/hj/catkin_ws/devel/lib/libvectormap.a  CMakeFiles/vectormap.dir/src/vector_map.cpp.o
+/usr/bin/ranlib /home/hj/catkin_ws/devel/lib/libvectormap.a

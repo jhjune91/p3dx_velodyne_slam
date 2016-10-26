@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hj/catkin_ws/src/data/packages/map_file/include/map_db.h
+cstdint
+-
+string
+-
+netinet/in.h
+-
+
+/home/hj/catkin_ws/src/data/packages/map_file/lib/map_db/GetFile.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+string
+-
+fstream
+-
+sstream
+-
+ext/stdio_filebuf.h
+-
+curl/curl.h
+-
+map_db.h
+-
+

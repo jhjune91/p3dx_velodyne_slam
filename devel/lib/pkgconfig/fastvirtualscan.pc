@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: fastvirtualscan
+Description: Description of fastvirtualscan
+Version: 0.0.0
+Cflags: -I/home/hj/catkin_ws/src/util/packages/RobotSDK/fastvirtualscan/include/fastvirtualscan
+Libs: -L/home/hj/catkin_ws/devel/lib -lfastvirtualscan
+Requires: roscpp sensor_msgs

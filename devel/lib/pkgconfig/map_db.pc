@@ -1,0 +1,8 @@
+prefix=/home/hj/catkin_ws/devel
+
+Name: map_db
+Description: Description of map_db
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hj/catkin_ws/devel/lib 
+Requires: map_file gnss

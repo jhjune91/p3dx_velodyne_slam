@@ -1,0 +1,36 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(map_server2)
+
+## Find catkin macros and libraries
+## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
+## is used, also find other catkin packages
+find_package(catkin REQUIRED COMPONENTS
+  nav_msgs
+  roscpp
+  tf
+)
+
+find_package(Boost REQUIRED COMPONENTS system)
+
+catkin_package(
+    INCLUDE_DIRS
+        include
+    LIBRARIES
+        map_server2_image_loader
+    CATKIN_DEPENDS
+        roscpp
+        tf
+        nav_msgs
+)
+include_directories( include ${catkin_INCLUDE_DIRS} ${Boost_INCLUDE_DIRS} )
+#add_library(map_server2_image_loader src/image_loader.cpp)
+#target_link_libraries(map_server2_image_loader SDL SDL_image ${Boost_LIBRARIES})
+
+include_directories(
+  ${catkin_INCLUDE_DIRS}
+)
+
+
+add_executable(map_server2 src/map_saver.cpp)
+target_link_libraries(map_server2 ${catkin_LIBRARIES})
+add_dependencies(map_server2 ${catkin_EXPORTED_TARGETS})
